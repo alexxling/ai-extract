@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome" alt="Chrome Extension">
   <img src="https://img.shields.io/badge/Edge-Add--on-blue?logo=microsoftedge" alt="Edge Add-on">
   <img src="https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefox" alt="Firefox Add-on">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 <p align="center">
